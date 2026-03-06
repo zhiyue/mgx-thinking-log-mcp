@@ -1,10 +1,10 @@
 {
   "name": "mgx-thinking-log-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for downloading and reading MGX thinking logs",
   "type": "module",
   "bin": {
-    "mgx-thinking-log-mcp": "./dist/index.js"
+    "mgx-thinking-log-mcp": "dist/index.js"
   },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
